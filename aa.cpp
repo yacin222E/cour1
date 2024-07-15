@@ -3,7 +3,7 @@
 int main (){
 
 
-    std::cout<<"hrllo";
+    std::cout<<"hello";
 
 return 0;
 }
